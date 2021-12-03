@@ -1,0 +1,24 @@
+{
+  "name": "api-cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisluana/API.git"
+  },
+  "keywords": [],
+  "author": "Luana Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reisluana/API/issues"
+  },
+  "homepage": "https://github.com/reisluana/API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
