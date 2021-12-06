@@ -34,9 +34,11 @@ Project entry point:
 Routes entry point: 
 > ./api/routes/index.js
 
-Database: bomboniere
+Database: 
+> bomboniere
 
-Table: Pedidos
+Table: 
+> Pedidos
 
 ## Available Routes 
 ```
@@ -47,9 +49,6 @@ PUT - update an order: http://localhost:3000/bomboniere/:id
 DELETE - delete an order: http://localhost:3000/bomboniere/:id
 ```
 Important: pedido(s) = order(s)
-
-## Versioning
-1.0.0
 
 ## Author :woman_technologist:
 Luana Reis 
