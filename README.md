@@ -1,4 +1,4 @@
-# BomboniereAPI
+# Bomboniere API
  
 ![logoapi](https://user-images.githubusercontent.com/89221267/144911680-00e97979-804d-468b-9c3e-44bc2864f45a.png)
 
@@ -29,11 +29,11 @@ $ npm install
 $ npm start
 ```
 Project entry point: 
-> ./api/index.js
+> ./api/index.js <br>
 Routes entry point: 
 > ./api/routes/index.js
 
-Database: bomboniere
+Database: bomboniere<br>
 Table: Pedidos
 
 ## Available Routes 
@@ -51,6 +51,6 @@ Important: pedido(s) = order(s)
 
 ## Author :woman_technologist:
 Luana Reis 
-You can contact me via email (reisluanag@gmail.com) :e-mail:
+You can contact me via email (reisluanag@gmail.com) :e-mail: <br>
 
 Thanks for visiting me and good coding! :sparkling_heart:
