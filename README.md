@@ -43,8 +43,8 @@ Table: Pedidos
 GET - find all orders: http://localhost:3000/bomboniere
 GET - find one order: http://localhost:3000/bomboniere/:id
 POST - create/save a new order: http://localhost:3000/bomboniere
-PUT - update a order: http://localhost:3000/bomboniere/:id
-DELETE - delete a order: http://localhost:3000/bomboniere/:id
+PUT - update an order: http://localhost:3000/bomboniere/:id
+DELETE - delete an order: http://localhost:3000/bomboniere/:id
 ```
 Important: pedido(s) = order(s)
 
