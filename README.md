@@ -29,11 +29,13 @@ $ npm install
 $ npm start
 ```
 Project entry point: 
-> ./api/index.js <br>
+> ./api/index.js
+
 Routes entry point: 
 > ./api/routes/index.js
 
-Database: bomboniere<br>
+Database: bomboniere
+
 Table: Pedidos
 
 ## Available Routes 
@@ -51,6 +53,7 @@ Important: pedido(s) = order(s)
 
 ## Author :woman_technologist:
 Luana Reis 
-You can contact me via email (reisluanag@gmail.com) :e-mail: <br>
+
+You can contact me via email (reisluanag@gmail.com) :e-mail:
 
 Thanks for visiting me and good coding! :sparkling_heart:
